@@ -8,10 +8,10 @@ const MarkdownEditor = () => {
   };
 
   return (
-    <div className="textarea">
+    <textarea className="textarea">
       <h2>Write Markdown</h2>
       <textarea className="textarea" value={markdownText} onChange={handleChange} />
-    </div>
+    </textarea>
   );
 };
 
