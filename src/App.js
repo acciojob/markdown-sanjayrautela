@@ -1,6 +1,6 @@
 import React from 'react';
-import MarkdownEditor from './components/MarkdownEditor';
-import MarkdownPreview from './components/MarkdownPreview';
+import MarkdownEditor from './components/MarkDownEditor';
+import MarkdownPreview from './components/MarkDownPreview';
 
 const App = () => {
   return (
